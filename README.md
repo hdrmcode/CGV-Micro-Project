@@ -1,5 +1,5 @@
 
-# 🌌 Solar System Simulator (CW2)
+# 🌌 Solar System Simulator
 
 An interactive **3D Solar System Simulator** built using **Python, Pygame, and OpenGL**.
 This project visualizes planetary motion, textures, and basic astronomical data with an interactive UI.
